@@ -1,4 +1,4 @@
-# Practica de XML en asp.Net
+# Practica de XML  en asp.Net
 
 
 ## 🛠️ Construido con :
@@ -6,9 +6,6 @@
 
 * [Visual Studio 2019](https://visualstudio.microsoft.com/es/vs/) 
 * [C#](https://docs.microsoft.com/es-es/dotnet/csharp/tour-of-csharp/) 
-* [HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5) 
-* [Bootstrap](https://getbootstrap.com/) 
-* [Jquery](https://jquery.com/) 
 * [Typora](https://www.typora.io/) -  archivo Readme.md
 
 ## ✒️ Autor
